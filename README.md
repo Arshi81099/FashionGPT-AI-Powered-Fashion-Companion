@@ -105,7 +105,7 @@ Want to improve **FashionGPT**? Feel free to **fork** this repository and submit
 
 ## 📩 Contact
 
-📧 For queries or collaboration, reach out at [**your-email@example.com**](mailto\:arshikhan81099@gmail.com)
+📧 For queries or collaboration, reach out at [**arshikhan81099@gmail.com**](mailto\:arshikhan81099@gmail.com)
 
 🌟 **Star this repo if you like it!** 🚀🔥
 
