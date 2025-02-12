@@ -89,6 +89,9 @@ The app will be available at [**http://localhost:5000/**](http://localhost:5000/
 
 ---
 
+<img width="734" alt="Screenshot 2025-02-12 at 9 31 07 PM" src="https://github.com/user-attachments/assets/8efa5b1c-6dde-47ef-a948-2d5098d0fb2e" />
+
+
 ## 🎨 Future Enhancements
 
 🔹 **Multimodal Search** – Combine text & image inputs for better recommendations.\
